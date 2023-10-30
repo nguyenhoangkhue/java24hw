@@ -87,3 +87,9 @@
 #icon-3:focus{
     color: black;
 }
+
+#icon-5{
+    color: gray;
+    margin-top: -15px;
+    margin-left: 220px;
+}
